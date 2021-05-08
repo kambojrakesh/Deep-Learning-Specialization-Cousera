@@ -14,3 +14,4 @@ Deep Learning (Tensorflow Tutorial, Keras & Python)https://www.youtube.com/watch
 Deep Learning Specialization : https://www.coursera.org/specializations/deep-learning?
 
 Mathematics for Machine Learning Specialization : https://www.coursera.org/specializations/mathematics-machine-learning
+
