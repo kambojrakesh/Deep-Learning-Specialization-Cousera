@@ -17,5 +17,16 @@ Deep Learning Specialization : https://www.coursera.org/specializations/deep-lea
 
 
 
+-------------------------------------
+
+
+Another important resource:-
+
+https://discourse.deeplearning.ai/
+
+https://medium.com/
+
+https://www.analyticsvidhya.com/myfeed
+
 
 
