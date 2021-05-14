@@ -30,3 +30,12 @@ https://www.analyticsvidhya.com/myfeed
 
 
 
+
+git config --global packedGitLimit 1512m 
+git config --global packedGitWindowSize 1512m 
+git config --global deltaCacheSize 2047m 
+git config --global packSizeLimit 2047m 
+git config --global windowMemory 2047m
+
+
+
