@@ -20,22 +20,22 @@ Deep Learning Specialization : https://www.coursera.org/specializations/deep-lea
 -------------------------------------
 
 
-Another important resource:-
+Another important resource:-</br>
 
-https://discourse.deeplearning.ai/
+https://discourse.deeplearning.ai/</br>
 
-https://medium.com/
+https://medium.com/</br>
 
-https://www.analyticsvidhya.com/myfeed
-
-
+https://www.analyticsvidhya.com/myfeed</br>
 
 
-git config --global packedGitLimit 1512m 
-git config --global packedGitWindowSize 1512m 
-git config --global deltaCacheSize 2047m 
-git config --global packSizeLimit 2047m 
-git config --global windowMemory 2047m
+
+
+git config --global packedGitLimit 1512m </br>
+git config --global packedGitWindowSize 1512m </br>
+git config --global deltaCacheSize 2047m </br>
+git config --global packSizeLimit 2047m </br>
+git config --global windowMemory 2047m</br>
 
 
 
