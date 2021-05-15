@@ -1,11 +1,11 @@
 Explain the convolution operation
-	--Apply two different types of pooling operations /n
-	--Identify the components used in a convolutional neural network (padding, stride, filter, ...) and their purpose /n
-	--Build a convolutional neural network /n
-	--Implement convolutional and pooling layers in numpy, including forward propagation /n
-	--Implement helper functions to use when implementing a TensorFlow model /n
-	--Create a mood classifer using the TF Keras Sequential API /n
-	--Build a ConvNet to identify sign language digits using the TF Keras Functional API /n
-	--Build and train a ConvNet in TensorFlow for a binary classification problem /n
-	--Build and train a ConvNet in TensorFlow for a multiclass classification problem /n
-	--Explain different use cases for the Sequential and Functional APIs /n
+	--Apply two different types of pooling operations</br>
+	--Identify the components used in a convolutional neural network (padding, stride, filter, ...) and their purpose</br>
+	--Build a convolutional neural network</br>
+	--Implement convolutional and pooling layers in numpy, including forward propagation</br>
+	--Implement helper functions to use when implementing a TensorFlow model</br>
+	--Create a mood classifer using the TF Keras Sequential API</br>
+	--Build a ConvNet to identify sign language digits using the TF Keras Functional API</br>
+	--Build and train a ConvNet in TensorFlow for a binary classification problem</br>
+	--Build and train a ConvNet in TensorFlow for a multiclass classification problem</br>
+	--Explain different use cases for the Sequential and Functional APIs</br>
