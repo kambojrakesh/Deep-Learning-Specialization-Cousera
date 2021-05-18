@@ -1,3 +1,5 @@
+Week 1:-
+
 Explain the convolution operation
 	--Apply two different types of pooling operations</br>
 	--Identify the components used in a convolutional neural network (padding, stride, filter, ...) and their purpose</br>
@@ -9,3 +11,18 @@ Explain the convolution operation
 	--Build and train a ConvNet in TensorFlow for a binary classification problem</br>
 	--Build and train a ConvNet in TensorFlow for a multiclass classification problem</br>
 	--Explain different use cases for the Sequential and Functional APIs</br>
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Week 2:-
+
+Learning Objectives
+	Implement the basic building blocks of ResNets in a deep neural network using Keras
+	Train a state-of-the-art neural network for image classification
+	Implement a skip connection in your network
+	Create a dataset from a directory
+	Preprocess and augment data using the Keras Sequential API
+	Adapt a pretrained model to new data and train a classifier using the Functional API and MobileNet
+	Fine-tine a classifier's final layers to improve accuracy
