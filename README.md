@@ -44,4 +44,6 @@ Pending Assignment :-
 
 https://www.coursera.org/learn/nlp-sequence-models/programming/qgdaj/operations-on-word-vectors-debiasing/lab
 
+https://www.coursera.org/learn/nlp-sequence-models/programming/NaIA5/dinosaur-island-character-level-language-modeling/submission
+
 
