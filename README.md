@@ -38,4 +38,10 @@ git config --global packSizeLimit 2047m </br>
 git config --global windowMemory 2047m</br>
 
 
+--------------
+
+Pending Assignment :-
+
+https://www.coursera.org/learn/nlp-sequence-models/programming/qgdaj/operations-on-word-vectors-debiasing/lab
+
 
