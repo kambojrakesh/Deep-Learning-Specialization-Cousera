@@ -51,3 +51,36 @@ https://datascience-enthusiast.com/DL/Dinosaurus_Island_Character_level_language
 
 
 
+Programming Assignments
+Week 1
+
+Week1 - Building a Recurrent Neural Network - Step by Step
+Week1 - Dinosaur Island -- Character-level language model
+Week1 - Jazz improvisation with LSTM
+Week 2
+
+Week2 - Word Vector Representation
+Week2 - Emojify
+Week 3
+
+Week3 - Machine Translation
+Week3 - Trigger word detection
+Quiz Solutions
+Week1 Quiz Solutions
+Week2 Quiz Solutions
+Week3 Quiz Solutions
+Keras-Applications
+sequence models
+Dinosaurus land
+
+Emojify
+
+Neural Machine Translation
+
+Trigger Word Detection
+
+generative model
+Improvise a Jazz Solo
+
+
+
