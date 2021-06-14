@@ -51,6 +51,14 @@ https://datascience-enthusiast.com/DL/Dinosaurus_Island_Character_level_language
 
 https://www.coursera.org/learn/nlp-sequence-models/programming/SrY2e/emojify/lab
 
+https://www.tensorflow.org/text/tutorials/transformer#create_the_transformer
 
+
+
+------------------------------
+
+New Course Queue:-
+
+https://www.coursera.org/specializations/practical-data-science?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=20210519-pds-1-coursera-partner-promo-tool-pds-launch
 
 
