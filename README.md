@@ -28,6 +28,7 @@ https://medium.com/</br>
 
 https://www.analyticsvidhya.com/myfeed</br>
 
+https://developers.google.com/machine-learning/crash-course/ml-intro
 
 
 
