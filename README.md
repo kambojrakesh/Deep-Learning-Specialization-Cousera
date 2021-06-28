@@ -63,3 +63,6 @@ New Course Queue:-
 https://www.coursera.org/specializations/practical-data-science?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=20210519-pds-1-coursera-partner-promo-tool-pds-launch
 
 
+https://www.coursera.org/programs/capgemini-learning-program-71mtd?authProvider=capgemini&isExternal=true&productId=UTg2EeldEeq3QQ5dqWzZRQ&productType=s12n&showMiniModal=true
+
+
