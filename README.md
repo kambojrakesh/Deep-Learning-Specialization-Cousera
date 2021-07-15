@@ -75,11 +75,6 @@ https://www.coursera.org/programs/capgemini-learning-program-71mtd?authProvider=
 ---------------
 
 
-https://www.freecodecamp.org/news/end-to-end-machine-learning-project-turorial/
-https://www.analyticsvidhya.com/blog/2021/04/steps-to-complete-a-machine-learning-project/
-https://towardsdatascience.com/10-stages-of-a-machine-learning-project-in-2020-and-where-you-fit-cb73ad4726cb
-https://blog.floydhub.com/structuring-and-planning-your-machine-learning-project/
-https://www.altexsoft.com/blog/datascience/machine-learning-project-structure-stages-roles-and-tools/
-https://neptune.ai/blog/how-to-organize-deep-learning-projects-best-practices
+
 
 
