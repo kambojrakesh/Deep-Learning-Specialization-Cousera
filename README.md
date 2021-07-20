@@ -1,3 +1,13 @@
+
+
+https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops#howItWorks
+
+https://www.coursera.org/learn/mlops-fundamentals
+
+https://www.coursera.org/specializations/practical-data-science#courses
+
+----------------------------
+
 # Step by Step learning for Deep-Learning
 Deep Learning Specialization
 
@@ -31,12 +41,6 @@ https://www.analyticsvidhya.com/myfeed</br>
 https://developers.google.com/machine-learning/crash-course/ml-intro
 
 
-
-git config --global packedGitLimit 1512m </br>
-git config --global packedGitWindowSize 1512m </br>
-git config --global deltaCacheSize 2047m </br>
-git config --global packSizeLimit 2047m </br>
-git config --global windowMemory 2047m</br>
 
 
 --------------
