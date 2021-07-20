@@ -1,10 +1,19 @@
-
+Work on Priority :-
 
 https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops#howItWorks
 
 https://www.coursera.org/learn/mlops-fundamentals
 
 https://www.coursera.org/specializations/practical-data-science#courses
+
+------
+Work on Priority Rasa -
+
+https://www.youtube.com/watch?v=vWStcJDuOUk&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=2
+
+https://medium.com/the-research-nest/using-the-diet-classifier-for-intent-classification-in-dialogue-489c76e62804
+
+https://rasa.com/docs/rasa/
 
 ----------------------------
 
